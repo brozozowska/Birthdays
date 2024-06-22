@@ -11,6 +11,7 @@
 		4EC189222C26FB6E002A0FAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC189212C26FB6E002A0FAE /* ContentView.swift */; };
 		4EC189242C26FB6F002A0FAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EC189232C26FB6F002A0FAE /* Assets.xcassets */; };
 		4EC189272C26FB6F002A0FAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EC189262C26FB6F002A0FAE /* Preview Assets.xcassets */; };
+		4EC1892E2C26FC3B002A0FAE /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC1892D2C26FC3B002A0FAE /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4EC189212C26FB6E002A0FAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4EC189232C26FB6F002A0FAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EC189262C26FB6F002A0FAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4EC1892D2C26FC3B002A0FAE /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4EC1891F2C26FB6E002A0FAE /* BirthdaysApp.swift */,
 				4EC189212C26FB6E002A0FAE /* ContentView.swift */,
+				4EC1892D2C26FC3B002A0FAE /* Friend.swift */,
 				4EC189232C26FB6F002A0FAE /* Assets.xcassets */,
 				4EC189252C26FB6F002A0FAE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EC1892E2C26FC3B002A0FAE /* Friend.swift in Sources */,
 				4EC189222C26FB6E002A0FAE /* ContentView.swift in Sources */,
 				4EC189202C26FB6E002A0FAE /* BirthdaysApp.swift in Sources */,
 			);
